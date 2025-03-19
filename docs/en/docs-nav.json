@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "text": "Get Started",
+      "items": [
+        {
+          "text": "Overview",
+          "path": "get-started",
+          "isIndex": true
+        },
+      ]
+    },
+  ]
+}
