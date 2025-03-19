@@ -8,6 +8,10 @@
           "path": "get-started",
           "isIndex": true
         },
+        {
+          "text": "First Document",
+          "path": "get-started/FirstDocument.md"
+        },
       ]
     },
   ]
