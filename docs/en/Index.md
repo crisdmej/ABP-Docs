@@ -1,4 +1,4 @@
-# BMK Project Overview
+# BMK Project Overview Update
 
 The **BMK (Bering McKinley) project** is an initiative to create a unified customer portal that integrates multiple critical systems for **Managed Service Providers (MSPs)**. This portal enhances client engagement by offering a seamless user experience across **task management, learning management (LMS), goal tracking, and financial metrics**.
 
