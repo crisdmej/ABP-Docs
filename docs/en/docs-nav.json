@@ -4,12 +4,12 @@
       "text": "Get Started",
       "items": [
         {
-          "text": "Vision Overview",
-          "path": "get-started/vision-overview.md"
+          "text": "Registration",
+          "path": "get-started/registration.md"
         },
         {
-          "text": "First Document",
-          "path": "get-started/FirstDocument.md"
+          "text": "Logging In",
+          "path": "get-started/logging-in.md"
         }
       ]
     },
