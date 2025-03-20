@@ -16,7 +16,7 @@ The BMK project is structured around **standards**, ensuring consistent and comp
 
 For more details, refer to the following documents:
 
-- [Standards](./standards/standard-guidelines.md)
+- [Standards](./standards/guidelines.md)
 - [Domains](./domains/service.md)
 - [Key Features](./Key-Features.md)
 - [AI and Reporting](./AI-Reporting.md)
