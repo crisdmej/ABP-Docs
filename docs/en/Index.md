@@ -18,7 +18,6 @@ For more details, refer to the following documents:
 
 - [Standards](./standards/guidelines.md)
 - [Domains](./domains/service.md)
-- [Key Features](./Key-Features.md)
-- [AI and Reporting](./AI-Reporting.md)
-- [Goal Tracking](./Goal-Tracking.md)
-- [Financial Integration](./Financial-Integration.md)
+- [AI and Reporting](./ai-reporting/insights.md)
+- [Goal Tracking](./goal-tracking/performance.md)
+- [Financial Integration](./financial-integration/planning.md)
