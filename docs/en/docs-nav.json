@@ -5,11 +5,88 @@
       "items": [
         {
           "text": "Vision Overview",
-          "path": "get-started/Index.md"
+          "path": "get-started/vision-overview.md"
         },
         {
           "text": "First Document",
           "path": "get-started/FirstDocument.md"
+        }
+      ]
+    },
+    {
+      "text": "AI Reporting",
+      "items": [
+        {
+          "text": "Insights",
+          "path": "ai-reporting/insights.md"
+        },
+        {
+          "text": "Automation",
+          "path": "ai-reporting/automation.md"
+        },
+        {
+          "text": "Customization",
+          "path": "ai-reporting/customization.md"
+        }
+      ]
+    },
+    {
+      "text": "Domains",
+      "items": [
+        {
+          "text": "Financial Metrics",
+          "path": "domains/financial-metrics.md"
+        },
+        {
+          "text": "Service",
+          "path": "domains/service.md"
+        }
+      ]
+    },
+    {
+      "text": "Financial Integration",
+      "items": [
+        {
+          "text": "QuickBooks Integration",
+          "path": "financial-integration/quickbooks.md"
+        },
+        {
+          "text": "AI Analysis",
+          "path": "financial-integration/ai-analysis.md"
+        },
+        {
+          "text": "Planning",
+          "path": "financial-integration/planning.md"
+        }
+      ]
+    },
+    {
+      "text": "Goal Tracking",
+      "items": [
+        {
+          "text": "AI Insights",
+          "path": "goal-tracking/ai-insights.md"
+        },
+        {
+          "text": "KPIs",
+          "path": "goal-tracking/kpis.md"
+        },
+        {
+          "text": "Performance",
+          "path": "goal-tracking/performance.md"
+        }
+      ]
+    },
+    {
+      "text": "Standards",
+      "items": [
+        {
+          "text": "Compliance",
+          "path": "standards/compliance.md"
+        },
+        {
+          "text": "Guidelines",
+          "path": "standards/guidelines.md"
         }
       ]
     }
